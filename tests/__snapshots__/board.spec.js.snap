@@ -1,0 +1,607 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board component renders correctly 1`] = `
+<div
+  class=""
+  id="board"
+>
+  <ol>
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+  </ol>
+</div>
+`;
+
+exports[`Board component should add the flipped class 1`] = `
+<div
+  class="flipped"
+  id="board"
+>
+  <ol>
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+  </ol>
+</div>
+`;
+
+exports[`Board component should add the selected class 1`] = `
+<div
+  class=""
+  id="board"
+>
+  <ol>
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark selected"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+    <li
+      class="square light"
+    />
+    <li
+      class="square dark"
+    />
+  </ol>
+</div>
+`;

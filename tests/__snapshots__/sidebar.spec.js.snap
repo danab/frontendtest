@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sidebar component renders correctly 1`] = `
+<div
+  id="sidebar"
+>
+  <h3>
+    History
+  </h3>
+   
+  <div
+    class="toolbar-wrapper"
+  >
+    <div
+      class="history-wrapper"
+    >
+      <div
+        class="sidebar-square"
+      >
+        <span
+          class="square-idx"
+        >
+          1.
+        </span>
+         
+        <span
+          class="square-coords"
+        >
+          d7
+        </span>
+      </div>
+    </div>
+     
+    <div
+      class="button-wrapper"
+    >
+      <div
+        class="button"
+      >
+        <a>
+          Reset
+        </a>
+      </div>
+       
+      <div
+        class="button"
+      >
+        <a>
+          Flip
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
