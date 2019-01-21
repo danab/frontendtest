@@ -5,7 +5,7 @@ Welcome to the [Chess.com](https://chess.com) front end programming challenge!
 # Instructions
 1. ✅ Fork this repository.
 2. ✅ Create a VueJS application that satisfies the requirements detailed below.
-3. Provide links to your fork of this repository and a live demo of your application.
+3. ✅ Provide links to your fork of this repository and a live demo of your application.
 
 # Application Requirements
 1. ✅ Create a page with a chessboard and a sidebar.
@@ -21,11 +21,11 @@ Please contact Chuck Haines (chaines@chess.com) with any questions or feedback r
 
 # Demo Site
 
-_TBD_
+[View Demo](https://chesscom-frontendtest.netlify.com/)
 
 # Notes
 
-- This was a fun project, which was trickier than I expected. I went for Grid for the overall layout and flexbox for the board (which is a grid, I realize the irony).
+- This was a fun project, which was trickier than I expected. I went for grid for the overall layout and flexbox for the board (which is a grid, I realize the irony).
 - There are a few `calc()` functions in the css, which are not as elegant as I would have liked
 - The bulk of my time was spent playing with the CSS. The overall functionality was not that difficult despite being pretty new to Vue.
 - I blatantly ripped off the Chess.com default styling.
